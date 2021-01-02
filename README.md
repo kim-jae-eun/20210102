@@ -1,6 +1,6 @@
 ### TIL: branch 충돌 해결 방법
 > 서로 다른 branch에서 수정한 내용을 `merge`할 때 충돌이 일어날 수 있다. 그에 대한 대응책을 알아본다.
-- 유용한 `git log` 확인 방법
+- 유용한 명령어
 
     ```
     git log --branches --graph --decorate
